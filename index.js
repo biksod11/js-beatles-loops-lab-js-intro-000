@@ -7,3 +7,14 @@ function theBeatlesPlay(musicians, instruments){
   }
   return Kobe
 }
+
+function johnLennonFacts(factuals){
+  const shoutedFactuals = []
+  let i = 0
+  while (i < facts.length){
+    shoutedFactuals.push(`${factuals[i]!!!}`)
+    i++
+  }
+  return shoutedFactuals
+
+}
