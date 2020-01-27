@@ -22,7 +22,7 @@ function iLoveTheBeatles(number){
   const mamba = []
 
   do{
-    mamba.push("I love the Batles!")
+    mamba.push("I love the Beatles!")
     number++
   } while (number < 15)
   return mamba
