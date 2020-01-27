@@ -16,5 +16,14 @@ function johnLennonFacts(factuals){
     i++
   }
   return shoutedFactuals
+}
 
+function iLoveTheBeatles(number){
+  const mamba = []
+
+  do{
+    mamba.push("I love the Batles!")
+    number++
+  } while (number < 15)
+  return mamba
 }
